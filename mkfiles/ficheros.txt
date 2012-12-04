@@ -1,0 +1,15 @@
+.
+├── ficheros.txt klasdfjglkadfjlñasjflñasjfñlajksdf
+├── mkfile-ada  <sdklfasdlñfasdfjaslñkdfjaslñdfjk
+├── mkfile-arm
+├── mkfile-c
+├── mkfile-chost
+├── mkfile-cxx
+├── mkfile-i386
+├── mkfile-linux
+├── mkfile-lpc
+└── mkfile-xm_i386
+
+dentro de este directorio se creo un archivo llamado mkfile-ctx el cual contiene la copnfiguracion del toolchain para el cortex-m3
+
+0 directories, 10 files
